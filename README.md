@@ -1,2 +1,2 @@
 # dados-atletas
-Referente projeto dois da trilha de lógica de programação DevStart.
+*Referente projeto dois da trilha de lógica de programação DevStart.*
